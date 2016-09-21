@@ -58,4 +58,3 @@ val c= new C
 c minc
 
 c finc
-
