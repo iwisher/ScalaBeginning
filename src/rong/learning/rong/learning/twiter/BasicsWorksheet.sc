@@ -50,7 +50,7 @@ class C {
      var acc = 0
      def minc = { acc+=1
        acc}
-     val finc = { () => acc += _ }
+     val finc = { () => acc += 1 }
    }
 
 val c= new C
